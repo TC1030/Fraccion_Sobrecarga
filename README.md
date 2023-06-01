@@ -1,11 +1,11 @@
-# Ejercicios - Básicos
+# Ejercicios - Básicos de clase
 
-Ubíquese en la **carpeta fuente del proyecto** deseado, use:
+Ubíquese en la **carpeta fuente del ejercicio**, use:
 
 ```
-cd <assignments/Proyecto>
+cd <assignments/NombreCarpeta>
 
-Ej.- cd assignments/00-HelloWorld
+Ej.- cd assignments/Fracciones
 
 ```
 Regrese a la **carpeta fuente origen de todos los proyectos**, use:
@@ -15,4 +15,4 @@ Ej.- cd ../../
 
 ```
 
-- 00-HelloWorld (```cd assignments/00-HelloWorld```)
+- Para este repositorio: (```cd assignments/Fracciones```)
